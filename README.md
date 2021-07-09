@@ -1,7 +1,7 @@
 # Hibernate-1-N
 
 ## Description
-The **Hibernate-1-N** is a project shows how use the Hibernate ORM to manipulate a one-to-many relationship.
+Project that show how use the Hibernate ORM to manipulate a one-to-many relationship.
 
 ## Technologies
 The project uses the following technologies:
